@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-notebook"]=this["webpackJsonpreact-notebook"]||[]).push([[214],{383:function(n,o){Prism.languages.jsonp=Prism.languages.extend("json",{punctuation:/[{}[\]();,.]/}),Prism.languages.insertBefore("jsonp","punctuation",{function:/[_$a-zA-Z\xA0-\uFFFF][$\w\xA0-\uFFFF]*(?=\s*\()/})}}]);
+//# sourceMappingURL=214.238e5416.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-notebook"]=this["webpackJsonpreact-notebook"]||[]).push([[307],{476:function(e,t){Prism.languages.insertBefore("php","variable",{this:/\$this\b/,global:/\$(?:_(?:SERVER|GET|POST|FILES|REQUEST|SESSION|ENV|COOKIE)|GLOBALS|HTTP_RAW_POST_DATA|argc|argv|php_errormsg|http_response_header)\b/,scope:{pattern:/\b[\w\\]+::/,inside:{keyword:/static|self|parent/,punctuation:/::|\\/}}})}}]);
+//# sourceMappingURL=307.375de393.chunk.js.map
